@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MattEng
-- 👀 I’m interested in Game development 
-- 🌱 I’m currently learning C++/Unreal engine
+- 👀 I’m interested in Game development & data analysis
+- 🌱 I’m currently learning Python
